@@ -18,7 +18,7 @@ A clean and minimal portfolio website to showcase my projects and skills.
 - GeneNet
 
 ## 🔗 Live Demo
-(Add your deployed link here)
+👉 https://mythrigaddam27.github.io/portfolio-website/
 
 ## 📌 Author
 Mythri
